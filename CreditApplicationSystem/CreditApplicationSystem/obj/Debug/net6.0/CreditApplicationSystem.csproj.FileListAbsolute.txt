@@ -1,0 +1,7 @@
+C:\github\rest api\CreditApplicationSystem\CreditApplicationSystem\obj\Debug\net6.0\CreditApplicationSystem.csproj.AssemblyReference.cache
+C:\github\rest api\CreditApplicationSystem\CreditApplicationSystem\obj\Debug\net6.0\CreditApplicationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\rest api\CreditApplicationSystem\CreditApplicationSystem\obj\Debug\net6.0\CreditApplicationSystem.AssemblyInfoInputs.cache
+C:\github\rest api\CreditApplicationSystem\CreditApplicationSystem\obj\Debug\net6.0\CreditApplicationSystem.AssemblyInfo.cs
+C:\github\rest api\CreditApplicationSystem\CreditApplicationSystem\obj\Debug\net6.0\CreditApplicationSystem.csproj.CoreCompileInputs.cache
+C:\github\rest api\CreditApplicationSystem\CreditApplicationSystem\obj\Debug\net6.0\CreditApplicationSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\github\rest api\CreditApplicationSystem\CreditApplicationSystem\obj\Debug\net6.0\CreditApplicationSystem.MvcApplicationPartsAssemblyInfo.cache
